@@ -188,6 +188,7 @@ h2{
     flex-direction: column;
     h2{
         text-align: center;
+        margin-bottom: 3rem;
     }
     .button-rounded{
         background: #ed4852;
@@ -195,13 +196,14 @@ h2{
         display: inline-block;
         padding: 15px;
         border-radius: 30px;
-        margin-bottom: 200px;
+        margin-bottom: 130px;
         // width: 100px;
     }
     .food-slider{
         width: 100%;
         max-width: 1400px;
         display: flex;
+        margin-bottom: 2rem;
         .slide{
             width: 20%;
             position: relative;
